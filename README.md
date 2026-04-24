@@ -42,13 +42,13 @@ Currently diving deep into:
 * 📈 Designed for scalability
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatmiddha92&repo=freshmart&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatmiddha92&repo=freshmart-backend&theme=tokyonight"/>
 </p>
 
 🎥 Demo
 <p align="center">
-  <a href="https://www.linkedin.com/posts/rajat-middha_reactnative-mern-immediatejoiner-activity-7432382361935450112-43KA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACjml3kBj2U2dbOX0l0fygyRTPnPsqXKRdc&utm_campaign=copy_link>
-    <img src="your-demo-preview.gif" width="800"/>
+  <a href="https://www.linkedin.com/posts/rajat-middha_reactnative-mern-immediatejoiner-activity-7432382361935450112-43KA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACjml3kBj2U2dbOX0l0fygyRTPnPsqXKRdc&utm_campaign=copy_link">
+   Watch Demo 
   </a>
 </p>
 

@@ -139,15 +139,15 @@ Currently diving deep into:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/rajatmiddha92/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/rajatmiddha92/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/rajatmiddha92/snk/output/github-contribution-grid-snake.svg"
+    src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
   />
 </picture>
 

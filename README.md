@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!-- HERO SECTION -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=1"/>
 </p>
@@ -51,7 +47,7 @@ Currently diving deep into:
 
 🎥 Demo
 <p align="center">
-  <a href="https://www.linkedin.com/posts/rajat-middha_reactnative-mern-immediatejoiner-activity-7432382361935450112-43KA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACjml3kBj2U2dbOX0l0fygyRTPnPsqXKRdc&utm_campaign=copy_link">
+  <a href="https://www.linkedin.com/posts/rajat-middha_reactnative-mern-immediatejoiner-activity-7432382361935450112-43KA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACjml3kBj2U2dbOX0l0fygyRTPnPsqXKRdc&utm_campaign=copy_link>
     <img src="your-demo-preview.gif" width="800"/>
   </a>
 </p>
@@ -68,7 +64,7 @@ Currently diving deep into:
 * 🔍 Prompt-based interaction
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatmiddha92&repo=ai-qa-app&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatmiddha92&repo=Rajat-Gpt&theme=tokyonight"/>
 </p>
 
 🌍 Live Demo: https://rajat-gpt.streamlit.app
@@ -79,7 +75,7 @@ Currently diving deep into:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,docker,git,aws,redis,docker,reactnative,kubernetes" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,docker,git,aws,redis,docker,kubernetes" />
 
 </p>
 
@@ -88,7 +84,7 @@ Currently diving deep into:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajatmiddha92&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="165" src="https://streak-stats.demolab.com?user=rajatmiddha92&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -123,7 +119,7 @@ Currently diving deep into:
 ## 🧩 DSA & Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/rajatmiddha92@?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/rajatmiddha92?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
@@ -143,7 +139,7 @@ Currently diving deep into:
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 

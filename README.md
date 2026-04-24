@@ -151,6 +151,10 @@ Currently diving deep into:
   />
 </picture>
 
+<p align="center">
+  <img src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 <p align="center">

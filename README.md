@@ -41,9 +41,6 @@ Currently diving deep into:
 * ⚙️ Modular backend (Node.js + TypeScript + MongoDB)
 * 📈 Designed for scalability
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajatmiddha92&repo=freshmart-backend&theme=tokyonight"/>
-</p>
 
 🎥 Demo
 <p align="center">
@@ -139,7 +136,7 @@ Currently diving deep into:
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 

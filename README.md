@@ -134,22 +134,7 @@ Currently diving deep into:
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/rajatmiddha92/rajatmiddha92/blob/output/github-contribution-grid-snake.svg" />

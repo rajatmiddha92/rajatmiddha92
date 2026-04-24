@@ -30,7 +30,7 @@ Currently diving deep into:
 
 ---
 
-## 🚀 Featured Work
+<!-- ## 🚀 Featured Work -->
 
 ### 🛒 FreshMart — Scalable Grocery Platform
 
@@ -97,7 +97,7 @@ Currently diving deep into:
 
 ---
 
-## 🏆 Achievements
+<!-- ## 🏆 Achievements -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajatmiddha&theme=tokyonight&no-frame=true&row=1&column=6"/>

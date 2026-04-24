@@ -136,7 +136,7 @@ Currently diving deep into:
 
 ## 🐍 Contribution Snake
 
-<img src="https://github.com/rajatmiddha92/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/rajatmiddha92/snk/blob/output/github-contribution-grid-snake.svg"/>
 
 ---
 

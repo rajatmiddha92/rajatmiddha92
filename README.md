@@ -37,8 +37,6 @@ Currently diving deep into:
 
 > A scalable platform enabling career counselors to run, manage, and monetize their career guidance services.
 
----
-
 ### 💡 Overview
 
 A new era of career counseling — this platform empowers **third-party counselors** to:
@@ -48,8 +46,6 @@ A new era of career counseling — this platform empowers **third-party counselo
 * build their own brand & business
 
 Initially built for in-house counselors → later expanded into a **platform model (multi-tenant system)**.
-
----
 
 ### ⚙️ What I Built
 
@@ -61,8 +57,6 @@ Initially built for in-house counselors → later expanded into a **platform mod
 
 👉 Essentially: **“Shopify for career counselors”**
 
----
-
 ### 📦 Platform Capabilities
 
 * 🎓 1800+ Scholarships, 28,000+ Colleges
@@ -70,8 +64,6 @@ Initially built for in-house counselors → later expanded into a **platform mod
 * 🧠 Psychometric Assessments
 * 🌐 Custom counselor websites
 * 📊 End-to-end student lifecycle management
-
----
 
 ### 🎥 Demo
 
@@ -89,8 +81,6 @@ Initially built for in-house counselors → later expanded into a **platform mod
   </a>
 </p>
 
----
-
 ### 🧠 Key Highlights
 
 * 🏗️ Transitioned from **internal tool → scalable platform**
@@ -104,8 +94,6 @@ Initially built for in-house counselors → later expanded into a **platform mod
 
 > A smart resume + profile generation system designed to improve student hiring outcomes.
 
----
-
 ### 💡 Overview
 
 Built an **ATS-optimized resume builder** and **student profile system** to help students:
@@ -113,8 +101,6 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 * create recruiter-friendly resumes
 * showcase profiles effectively
 * increase interview chances
-
----
 
 ### ⚙️ What I Built
 
@@ -124,15 +110,11 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 * ⚡ **Dynamic content structuring for better parsing**
 * 📊 **Optimization based on hiring patterns**
 
----
-
 ### 📈 Impact
 
 * 🚀 **37% higher response rate** for students using these templates
 * 📉 Reduced resume rejection due to ATS filtering
 * 🎯 Improved profile visibility for recruiters
-
----
 
 ### 🎥 Demo
 
@@ -148,8 +130,6 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
   </a>
 </p>
 
----
-
 ### 🧠 Key Highlights
 
 * 📊 Built with **real hiring insights & ATS constraints**
@@ -159,7 +139,7 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 
 ---
 
-### 🛒 FreshMart — Scalable Grocery Platform
+### 3. 🛒 FreshMart — Scalable Grocery Platform
 
 > Full-stack production-ready commerce system
 
@@ -178,7 +158,7 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 
 ---
 
-### 🤖 AI Q/A App — LLM Powered
+### 4. 🤖 AI Q/A App — LLM Powered
 
 > Lightweight AI app using pre-trained models
 

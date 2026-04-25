@@ -33,7 +33,7 @@ Currently diving deep into:
 <!-- ## 🚀 Featured Work -->
 ## 🚀 Featured Work
 
-### 🎓 Career Counseling Platform — “Shopify for Counselors.”
+### 1. 🎓 Career Counseling Platform — “Shopify for Counselors.”
 
 > A scalable platform enabling career counselors to run, manage, and monetize their career guidance services.
 
@@ -91,7 +91,16 @@ Initially built for in-house counselors → later expanded into a **platform mod
 
 ---
 
-### 📄 ATS Resume & Profile Builder
+### 🧠 Key Highlights
+
+* 🏗️ Transitioned from **internal tool → scalable platform**
+* 📈 Enabled counselors to **generate revenue independently**
+* ⚡ Designed for **multi-user, multi-role architecture**
+* 🎯 Focused on **real-world usability & business impact**
+
+---
+
+### 2. 📄 ATS Resume & Profile Builder
 
 > A smart resume + profile generation system designed to improve student hiring outcomes.
 
@@ -149,17 +158,6 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 * 🔍 Bridges gap between **student profiles & recruiter expectations**
 
 ---
-
-
-### 🧠 Key Highlights
-
-* 🏗️ Transitioned from **internal tool → scalable platform**
-* 📈 Enabled counselors to **generate revenue independently**
-* ⚡ Designed for **multi-user, multi-role architecture**
-* 🎯 Focused on **real-world usability & business impact**
-
----
-
 
 ### 🛒 FreshMart — Scalable Grocery Platform
 

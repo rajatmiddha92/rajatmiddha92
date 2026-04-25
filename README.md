@@ -75,12 +75,6 @@ Initially built for in-house counselors → later expanded into a **platform mod
 
 <!-- Optional: Replace with GIF preview for elite look -->
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1enGiSSX3OMDDDmESvD4QCqxZqgxo_jaD/view?usp=sharing">
-    <img src="https://via.placeholder.com/800x400.png?text=Career+Counseling+Platform+Demo" width="800"/>
-  </a>
-</p>
-
 ### 🧠 Key Highlights
 
 * 🏗️ Transitioned from **internal tool → scalable platform**
@@ -124,12 +118,6 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
   </a>
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1uIwLWF1cvVLGC1JoVOsPzu-BAuapQw8G/view?usp=sharing">
-    <img src="https://via.placeholder.com/800x400.png?text=ATS+Resume+Builder+Demo" width="800"/>
-  </a>
-</p>
-
 ### 🧠 Key Highlights
 
 * 📊 Built with **real hiring insights & ATS constraints**
@@ -148,11 +136,11 @@ Built an **ATS-optimized resume builder** and **student profile system** to help
 * ⚙️ Modular backend (Node.js + TypeScript + MongoDB)
 * 📈 Designed for scalability
 
-
 🎥 Demo
+
 <p align="center">
   <a href="https://www.linkedin.com/posts/rajat-middha_reactnative-mern-immediatejoiner-activity-7432382361935450112-43KA?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACjml3kBj2U2dbOX0l0fygyRTPnPsqXKRdc&utm_campaign=copy_link">
-   Watch Demo 
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge" />
   </a>
 </p>
 

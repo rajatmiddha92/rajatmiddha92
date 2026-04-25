@@ -31,6 +31,135 @@ Currently diving deep into:
 ---
 
 <!-- ## 🚀 Featured Work -->
+## 🚀 Featured Work
+
+### 🎓 Career Counseling Platform — “Shopify for Counselors.”
+
+> A scalable platform enabling career counselors to run, manage, and monetize their career guidance services.
+
+---
+
+### 💡 Overview
+
+A new era of career counseling — this platform empowers **third-party counselors** to:
+
+* onboard and manage students
+* provide structured career guidance
+* build their own brand & business
+
+Initially built for in-house counselors → later expanded into a **platform model (multi-tenant system)**.
+
+---
+
+### ⚙️ What I Built
+
+* 🔄 **Complete dashboard revamp**
+* 👥 **Third-party counselor onboarding system**
+* 📊 **Student management & tracking**
+* 💼 **Monetization layer (packages & services)**
+* 🌐 **Custom website generation for counselors**
+
+👉 Essentially: **“Shopify for career counselors”**
+
+---
+
+### 📦 Platform Capabilities
+
+* 🎓 1800+ Scholarships, 28,000+ Colleges
+* 📝 1300+ Exams, 580+ Career paths
+* 🧠 Psychometric Assessments
+* 🌐 Custom counselor websites
+* 📊 End-to-end student lifecycle management
+
+---
+
+### 🎥 Demo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1enGiSSX3OMDDDmESvD4QCqxZqgxo_jaD/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<!-- Optional: Replace with GIF preview for elite look -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1enGiSSX3OMDDDmESvD4QCqxZqgxo_jaD/view?usp=sharing">
+    <img src="https://via.placeholder.com/800x400.png?text=Career+Counseling+Platform+Demo" width="800"/>
+  </a>
+</p>
+
+---
+
+### 📄 ATS Resume & Profile Builder
+
+> A smart resume + profile generation system designed to improve student hiring outcomes.
+
+---
+
+### 💡 Overview
+
+Built an **ATS-optimized resume builder** and **student profile system** to help students:
+
+* create recruiter-friendly resumes
+* showcase profiles effectively
+* increase interview chances
+
+---
+
+### ⚙️ What I Built
+
+* 📄 **ATS-friendly resume generator**
+* 🎨 **3 professionally designed resume templates**
+* 👤 **Student profile builder system**
+* ⚡ **Dynamic content structuring for better parsing**
+* 📊 **Optimization based on hiring patterns**
+
+---
+
+### 📈 Impact
+
+* 🚀 **37% higher response rate** for students using these templates
+* 📉 Reduced resume rejection due to ATS filtering
+* 🎯 Improved profile visibility for recruiters
+
+---
+
+### 🎥 Demo
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1uIwLWF1cvVLGC1JoVOsPzu-BAuapQw8G/view?usp=sharing">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1uIwLWF1cvVLGC1JoVOsPzu-BAuapQw8G/view?usp=sharing">
+    <img src="https://via.placeholder.com/800x400.png?text=ATS+Resume+Builder+Demo" width="800"/>
+  </a>
+</p>
+
+---
+
+### 🧠 Key Highlights
+
+* 📊 Built with **real hiring insights & ATS constraints**
+* 🎯 Focused on **conversion (responses), not just UI**
+* ⚡ Lightweight and **easy-to-use for students**
+* 🔍 Bridges gap between **student profiles & recruiter expectations**
+
+---
+
+
+### 🧠 Key Highlights
+
+* 🏗️ Transitioned from **internal tool → scalable platform**
+* 📈 Enabled counselors to **generate revenue independently**
+* ⚡ Designed for **multi-user, multi-role architecture**
+* 🎯 Focused on **real-world usability & business impact**
+
+---
+
 
 ### 🛒 FreshMart — Scalable Grocery Platform
 
